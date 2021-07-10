@@ -35,9 +35,9 @@ Here are some ideas to get you started:
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/linux-ar21.svg"> </code>
 </p>
 
-
-<div><p align="center">My profile overview: </p></div>
-
-![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhishekbhartiind&show_icons=true)
-<br />
-<br />
+<hr>
+<div><p>My profile overview: </p></div>
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=abhishekbhartiind&count_private=true&show_icons=true" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekbhartiind&layout=compact" />
