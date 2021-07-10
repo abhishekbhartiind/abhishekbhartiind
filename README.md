@@ -38,6 +38,6 @@ Here are some ideas to get you started:
 <hr>
 <div><p>My profile overview: </p></div>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=abhishekbhartiind&count_private=true&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=abhishekbhartiind&count_private=true&show_icons=true&theme=radical" />
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekbhartiind&layout=compact" />
