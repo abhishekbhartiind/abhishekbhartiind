@@ -39,8 +39,3 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=abhishekbhartiind&count_private=true&show_icons=true&theme=radical" />
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekbhartiind&layout=compact&theme=radical&hide_border=true" />
-------
-<strong>🚀 My Latest Update :</strong><br><br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishekbhartiind&repo=abhishekbhartiind&theme=radical)](https://github.com/abhishekbhartiind/abhishekbhartiind)
-
-Last Edited on: 16/07/2021
