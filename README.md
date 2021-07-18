@@ -1,6 +1,6 @@
 <!--
 **abhishekbhartiind/abhishekbhartiind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+Here are some ideas to get you started: ✔ 
 -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Abhishek Bharti</h1>
 <h3 align="center">Full Stack Software Engineer | Artist | Tech Enthusiast</h3>
@@ -11,13 +11,13 @@ Here are some ideas to get you started:
 </p>
 </p>
 
-✔ 🔭 I’m currently working on **ReactJS & NodeJS**<br>
-✔ 🌱 I’m currently learning **Flutter & Data Structure**<br>
-✔ 👯 I’m looking to collaborate on **Open - Source contribution**<br>
-✔ 🤔 I’m looking for help with **AI & Deep Learning**<br>
-✔ 💬 Ask me about anything, I am happy to help<br>
-✔ 📫 How to reach me: imabhishekbharti12@gmail.com<br>
-✔ 😄 Pronouns: ***He/His*** 😉<br>
+🔭 I’m currently working on **ReactJS & NodeJS**<br>
+🌱 I’m currently learning **Flutter & Data Structure**<br>
+👯 I’m looking to collaborate on **Open - Source contribution**<br>
+🤔 I’m looking for help with **AI & Deep Learning**<br>
+💬 Ask me about anything, I am happy to help<br>
+📫 How to reach me: imabhishekbharti12@gmail.com<br>
+😄 Pronouns: ***He/His*** 😉<br>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***<br>
 <p align="left">
