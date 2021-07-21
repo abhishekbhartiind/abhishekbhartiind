@@ -32,6 +32,6 @@ Here are some ideas to get you started: ✔
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50"/>
 </p>
-<hr>
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=abhishekbhartiind&count_private=true&show_icons=true&theme=outrun&border_radius=20&include_all_commits=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekbhartiind&theme=outrun&layout=compact&hide_border=true&border_radius=20&langs_count=10" />
