@@ -36,6 +36,5 @@ Here are some ideas to get you started: ✔
 <hr>
 <div><p>My profile overview: </p></div>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=abhishekbhartiind&count_private=true&show_icons=true&theme=radical" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekbhartiind&layout=compact&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=abhishekbhartiind&count_private=true&show_icons=true&theme=outrun&border_radius=20" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekbhartiind&layout=compact&theme=outrun&hide_border=true&border_radius=20&langs_count=10" />
