@@ -34,4 +34,4 @@ Here are some ideas to get you started: ✔
 </p>
 <hr>
 <img src="https://github-readme-stats.vercel.app/api?username=abhishekbhartiind&count_private=true&show_icons=true&theme=outrun&border_radius=20" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekbhartiind&theme=outrun&hide_border=true&border_radius=20&langs_count=10" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekbhartiind&theme=outrun&layout=compact&hide_border=true&border_radius=20&langs_count=10" />
