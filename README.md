@@ -13,8 +13,8 @@ Here are some ideas to get you started: ✔
 
 🔭 I’m currently working on **ReactJS & NodeJS**<br>
 🌱 I’m currently learning **Flutter / React Native / Data Structure**<br>
-👯 I’m looking to collaborate on **Open - Source contribution**<br>
-🤔 I’m looking for help with **AI & Deep Learning**<br>
+👯 I’m looking to collaborate on **Open - Source contribution / Freelance Project**<br>
+🤔 I’m looking for help with **AI, ML & Deep Learning**<br>
 💬 Ask me about anything, I am happy to help<br>
 📫 How to reach me: imabhishekbharti12@gmail.com<br>
 😄 Pronouns: ***He/His*** 😉<br>
