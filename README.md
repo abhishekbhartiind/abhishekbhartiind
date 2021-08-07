@@ -16,7 +16,7 @@ Here are some ideas to get you started: ✔
 👯 I’m looking to collaborate on **Open - Source contribution / Freelance Project**<br>
 🤔 I’m looking for help with **AI, ML & Deep Learning**<br>
 💬 Ask me about anything, I am happy to help<br>
-📫 How to reach me: imabhishekbharti12@gmail.com / https://abhishekbharti.com<br>
+📫 How to reach me: imabhishekbharti12@gmail.com / <a href = "https://abhishekbharti.com" target="_blank">abhishekbharti.com</a><br>
 😄 Pronouns: ***He/His*** 😉<br>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***<br>
