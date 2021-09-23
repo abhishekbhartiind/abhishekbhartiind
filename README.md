@@ -12,7 +12,7 @@ Here are some ideas to get you started: ✔
 </p>
 
 🔭 I’m currently working on **ReactJS & NodeJS**<br>
-🌱 I’m currently learning **Flutter / React Native / Data Structure**<br>
+🌱 I’m currently learning **Flutter / Data Structure**<br>
 👯 I’m looking to collaborate on **Open - Source contribution / Freelance Project**<br>
 🤔 I’m looking for help with **AI, ML & Deep Learning / Blockchain**<br>
 💬 Ask me about anything, I am happy to help<br>
