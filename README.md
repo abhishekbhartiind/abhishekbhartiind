@@ -12,9 +12,9 @@ Here are some ideas to get you started: ✔
 </p>
 
 🔭 I’m currently working on **ReactJS & NodeJS**<br>
-🌱 I’m currently learning **Flutter / Data Structure**<br>
+🌱 I’m currently learning **React Native, TypeScript and Next JS**<br>
 👯 I’m looking to collaborate on **Open - Source contribution / Freelance Project**<br>
-🤔 I’m looking for help with **AI, ML & Deep Learning / Blockchain**<br>
+🤔 I’m looking for help with **WEB 3.0**<br>
 💬 Ask me about anything, I am happy to help<br>
 📫 How to reach me: imabhishekbharti12@gmail.com / <a href = "https://abhishekbharti.com" target="_blank">abhishekbharti.com</a><br>
 😄 Pronouns: ***He/His*** 😉<br>
