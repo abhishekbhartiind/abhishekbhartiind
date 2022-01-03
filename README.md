@@ -7,7 +7,8 @@ Here are some ideas to get you started: ✔
 <p align="center">
 <a href="https://www.linkedin.com/in/imabhishekbharti/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="imabhishekbharti" height="30" width="40" /></a>
 <a href="https://www.instagram.com/abhishekbharti/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="akash_chowrasia" height="30" width="40" /></a>
- <a href = "mailto: imabhishekbharti12@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+<a href = "mailto: imabhishekbharti12@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+[![GitHub abhishekbhartiind](https://img.shields.io/github/followers/abhishekbhartiind?label=follow&style=social)](https://github.com/abhishekbhartiind)
 </p>
 </p>
 
@@ -18,11 +19,6 @@ Here are some ideas to get you started: ✔
 💬 Ask me about anything, I am happy to help<br>
 📫 How to reach me: imabhishekbharti12@gmail.com / <a href = "https://abhishekbharti.com" target="_blank">abhishekbharti.com</a><br>
 😄 Pronouns: ***He/His*** 😉<br>
-
-***Find ME***<br><br>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imabhishekbharti/)](https://www.linkedin.com/in/imabhishekbharti/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imabhishekbharti12@gmail.com)](mailto:imabhishekbharti12@gmail.com)
-[![GitHub abhishekbhartiind](https://img.shields.io/github/followers/abhishekbhartiind?label=follow&style=social)](https://github.com/abhishekbhartiind)
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***<br>
 <p align="left">
