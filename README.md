@@ -10,6 +10,9 @@ Here are some ideas to get you started: ✔
 <a href = "mailto: imabhishekbharti12@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 </p>
+
+<br>
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imabhishekbharti12@gmail.com)](mailto:imabhishekbharti12@gmail.com)
 [![GitHub abhishekbhartiind](https://img.shields.io/github/followers/abhishekbhartiind?label=follow&style=social)](https://github.com/abhishekbhartiind)
 
 🔭 I’m currently working on **ReactJS & NodeJS**<br>
