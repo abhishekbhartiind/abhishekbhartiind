@@ -19,11 +19,6 @@ Here are some ideas to get you started: ✔
 📫 How to reach me: imabhishekbharti12@gmail.com / <a href = "https://abhishekbharti.com" target="_blank">abhishekbharti.com</a><br>
 😄 Pronouns: ***He/His*** 😉<br>
 
-
-<br>
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imabhishekbharti12@gmail.com)](mailto:imabhishekbharti12@gmail.com)
-[![GitHub abhishekbhartiind](https://img.shields.io/github/followers/abhishekbhartiind?label=follow&style=social)](https://github.com/abhishekbhartiind)
-
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***<br>
 <p align="left">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> 
