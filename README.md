@@ -8,9 +8,9 @@ Here are some ideas to get you started: ✔
 <a href="https://www.linkedin.com/in/imabhishekbharti/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="imabhishekbharti" height="30" width="40" /></a>
 <a href="https://www.instagram.com/abhishekbharti/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="akash_chowrasia" height="30" width="40" /></a>
 <a href = "mailto: imabhishekbharti12@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+</p>
+</p>
 [![GitHub abhishekbhartiind](https://img.shields.io/github/followers/abhishekbhartiind?label=follow&style=social)](https://github.com/abhishekbhartiind)
-</p>
-</p>
 
 🔭 I’m currently working on **ReactJS & NodeJS**<br>
 🌱 I’m currently learning **React Native, TypeScript and Next JS**<br>
