@@ -11,7 +11,7 @@ Here are some ideas to get you started: ✔
 </p>
 </p>
 
-🔭 I’m currently working on **ReactJS/NextJS & Node/TypeScript**<br>
+🔭 I’m currently working on **ReactJS / NextJS & NodeJS / TypeScript**<br>
 🌱 I’m currently learning **TypeScript & Project Architecture**<br>
 👯 I’m looking to collaborate on **Startups / Freelance / WEB 3.0 Projects**<br>
 🤔 I’m looking for help with **WEB 3.0, NFTs, Dapps, DeFi and Metaverse**<br>
