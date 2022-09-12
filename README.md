@@ -36,6 +36,6 @@ Here are some ideas to get you started: ✔
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=abhishekbhartiind&count_private=true&show_icons=true&theme=outrun&border_radius=20&include_all_commits=true" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/? username=abhishekbhartiind&theme=outrun&layout=compact&hide_border=true&border_radius=20&langs_count=10" />
    <img src="http://github-readme-streak-stats.herokuapp.com?user=abhishekbhartiind&background=030D6B&hide_border=true&stroke=C7CCFF&ring=FB750B&fire=FB750B&currStreakNum=25FB88&sideNums=FB750B&currStreakLabel=25FB88&sideLabels=25FB88&dates=C7CCFF&date_format=j%20M%5B%20Y%5D""https://git.io/streak-stats" alt="GitHub Streak">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/? username=abhishekbhartiind&theme=outrun&layout=compact&hide_border=true&border_radius=20&langs_count=10" />
 </div>
