@@ -20,18 +20,53 @@ Here are some ideas to get you started: ✔
 😄 Pronouns: ***He/His*** 😉<br>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30" height="30">&nbsp;***Languages & Tools I Know...***<br>
-<p align="left">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="50" height="50"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="50" height="50"/> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> 
-</p>
+<table>
+    <tr>
+    <td>
+    <img src="https://img.icons8.com/nolan/2x/javascript.png" title="JavaScript" width="100" alt="JavaScript">
+    </td>
+    <td>
+    <img src="https://img.icons8.com/color/2x/typescript.png" title="TypeScript" width="100" alt="TypeScript">
+    </td>
+    <td>
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" title="React" width="100" alt="React.js">
+    </td>
+    <td>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" title="Nextjs" width="100" alt="Nextjs">
+    </td>
+    <td>
+    <img src="https://www.theconsolelogs.com/react/redux.svg" title="Redux" width="100" alt="Redux">
+    </td>
+    <td>
+    <img src="https://img.icons8.com/color/2x/nodejs.png" title="Node.js" width="100" alt="node.js">
+    </td>
+    <td>
+    <img src="https://cdn.iconscout.com/icon/free/png-128/mongodb-4-1175139.png" title="MongoDB" width="100" alt="MongoDB">
+    </td>
+    </tr>
+    <tr>
+    <td>
+    <img src="https://img.icons8.com/color/2x/html-5.png" title="HTML5" width="100" alt="HTML5"></td>
+    <td>
+    <img src="https://img.icons8.com/color/2x/css3.png" title="CSS3" width="100" alt="CSS3">
+    </td>
+    <td>
+    <img src="https://img.icons8.com/color/2x/bootstrap.png" title="Bootstrap" width="100" alt="Bootstrap">
+    </td>
+    <td>
+    <img src="https://image.pngaaa.com/388/3920388-middle.png" title="Tailwind CSS" width="100" alt="Tailwind CSS">
+    </td>
+    <td>
+    <img src="https://img.icons8.com/nolan/2x/github.png" title="Git" width="100" alt="Git">
+    </td>
+    <td>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="GitLab" width="100" alt="GitLab">
+    </td>
+    <td>
+    <img src="https://w7.pngwing.com/pngs/1006/374/png-transparent-web-development-node-js-socket-io-javascript-network-socket-modernization-miscellaneous-logo-web-application-thumbnail.png" title="Express" width="100" alt="Express"></td>
+    </tr>
+</table>
+
 <br>
 
 <div align="center">
