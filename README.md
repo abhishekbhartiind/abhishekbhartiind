@@ -16,10 +16,12 @@ Here are some ideas to get you started: ✔
 👯 I’m looking to collaborate on **Startups / Freelance / WEB 3.0 Projects**<br>
 🤔 I’m looking for help with **WEB 3.0, NFTs, Dapps, DeFi and Metaverse**<br>
 💬 Ask me about anything, I am happy to help<br>
-📫 How to reach me: imabhishekbharti12@gmail.com / <a href = "https://abhishekbharti.com" target="_blank">abhishekbharti.com</a><br>
-😄 Pronouns: ***He/His*** 😉<br>
-
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30" height="30">&nbsp;***Languages & Tools I Know...***<br>
+📫 How to reach me: imabhishekbharti12@gmail.com / <a href = "https://abhishekbharti.com" target="_blank">abhishekbharti.com</a>
+<br>
+😄 Pronouns: ***He/His*** 😉
+<br>
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30" height="30">&nbsp;***Languages & Tools I Know...***
+<br>
 <table>
     <tr>
     <td>
