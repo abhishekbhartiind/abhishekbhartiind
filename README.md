@@ -2,7 +2,7 @@
 **abhishekbhartiind/abhishekbhartiind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: ✔ 
 -->
-<h1 align="center">Hi, I'm Abhishek Bharti</h1>
+<h1 align="center">I'm Abhishek Bharti</h1>
 <h3 align="center">Full Stack Software Engineer | Artist | Tech Enthusiast</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/imabhishekbharti/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="imabhishekbharti" height="30" width="40" /></a>
