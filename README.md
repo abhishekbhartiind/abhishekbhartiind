@@ -3,13 +3,21 @@
 Here are some ideas to get you started: ✔ 
 -->
 <h1 align="center">I'm Abhishek Bharti</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Abhishek+Bharti" align="middle" alt="Hey, I'm Abhishek Bharti">
+
 <h3 align="center">Full Stack Software Engineer | Artist | Tech Enthusiast</h3>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/imabhishekbharti/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="imabhishekbharti" height="30" width="40" /></a>
 <a href="https://www.instagram.com/abhishekbharti/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="akash_chowrasia" height="30" width="40" /></a>
 <a href = "mailto: imabhishekbharti12@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
+
+<br>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=abhishekbhartiind&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
 </p>
+
 
 🔭 I’m currently working on **ReactJS / NextJS & NodeJS / TypeScript**<br>
 🌱 I’m currently learning **TypeScript / Software Architecture / System Design**<br>
