@@ -17,8 +17,8 @@ Here are some ideas to get you started: ✔
 </p>
 
 
-🔭 I’m currently working on **ReactJS / NextJS & NodeJS / TypeScript / GraphQL**<br>
-🌱 I’m currently learning **TypeScript / Software Architecture / System Design**<br>
+🔭 I’m currently working on **ReactJS / NextJS / NodeJS / NestJS / TypeScript / GraphQL**<br>
+🌱 I’m currently learning **Software Architecture / System Design**<br>
 👯 I’m looking to collaborate on **Startups / Freelance / WEB 3.0 Projects**<br>
 🤔 I’m looking for help with **WEB 3.0, NFTs, Dapps, DeFi and Metaverse**<br>
 💬 Ask me about anything, I am happy to help<br>
@@ -84,5 +84,3 @@ Here are some ideas to get you started: ✔
     <br>
    <img src="http://github-readme-streak-stats.herokuapp.com?user=abhishekbhartiind&background=030D6B&hide_border=true&stroke=C7CCFF&ring=FB750B&fire=FB750B&currStreakNum=25FB88&sideNums=FB750B&currStreakLabel=25FB88&sideLabels=25FB88&dates=C7CCFF&date_format=j%20M%5B%20Y%5D""https://git.io/streak-stats" alt="GitHub Streak">
 </div>
-
-[![Abhishek's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=abhishekbhartiind&custom_title=Abhishek's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
