@@ -102,10 +102,9 @@ Here are some ideas to get you started: ✔
 
 <br>
 
-<div align="center">
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekbhartiind&layout=compact&theme=outrun&border_radius=20&hide_border=true" />
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=abhishekbhartiind&count_private=true&show_icons=true&theme=outrun&border_radius=20&include_all_commits=true" />
-    <br>
-   <img src="http://github-readme-streak-stats.herokuapp.com?user=abhishekbhartiind&background=030D6B&hide_border=true&stroke=C7CCFF&ring=FB750B&fire=FB750B&currStreakNum=25FB88&sideNums=FB750B&currStreakLabel=25FB88&sideLabels=25FB88&dates=C7CCFF&date_format=j%20M%5B%20Y%5D""https://git.io/streak-stats" alt="GitHub Streak">
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekbhartiind&layout=compact&theme=outrun&border_radius=20&hide_border=true" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekbhartiind&count_private=true&show_icons=true&theme=outrun&border_radius=20&include_all_commits=true" alt="abhishekbhartiind" /></p>
+
+<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=abhishekbhartiind&](http://github-readme-streak-stats.herokuapp.com?user=abhishekbhartiind&background=030D6B&hide_border=true&stroke=C7CCFF&ring=FB750B&fire=FB750B&currStreakNum=25FB88&sideNums=FB750B&currStreakLabel=25FB88&sideLabels=25FB88&dates=C7CCFF&date_format=j%20M%5B%20Y%5D)http://github-readme-streak-stats.herokuapp.com?user=abhishekbhartiind&background=030D6B&hide_border=true&stroke=C7CCFF&ring=FB750B&fire=FB750B&currStreakNum=25FB88&sideNums=FB750B&currStreakLabel=25FB88&sideLabels=25FB88&dates=C7CCFF&date_format=j%20M%5B%20Y%5D" alt="abhishekbhartiind" /></p>
+
