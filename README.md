@@ -31,6 +31,7 @@ Here are some ideas to get you started: ✔
 <br>
 <br>
 😄 Pronouns: ***He/His*** 😉
+<br>
 <p><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30" height="30" />&nbsp;***Languages & Tools I Know...*** </p>
 <br>
 <table>
