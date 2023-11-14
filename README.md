@@ -79,9 +79,24 @@ Here are some ideas to get you started: ✔
     <td>
     <img src="https://w7.pngwing.com/pngs/1006/374/png-transparent-web-development-node-js-socket-io-javascript-network-socket-modernization-miscellaneous-logo-web-application-thumbnail.png" title="Express" width="100" alt="Express">
     </td>
-        <td>
-          <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="100" height="100"/> 
-        </td>
+    <td>
+      <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="100" height="100"/> 
+    </td>
+    <td>
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="100" height="100"/> 
+    </td> 
+    <td> 
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="100" height="100"/> 
+    </td> 
+    <td>
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="100" height="100"/> 
+     </td> 
+    <td> 
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="100" height="100"/>
+     </td> 
+    <td> 
+        <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="100" height="100"/> </a>
+    </td>
     </tr>
 </table>
 
