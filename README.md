@@ -57,6 +57,15 @@ Here are some ideas to get you started: ✔
     <td>
     <img src="https://cdn.iconscout.com/icon/free/png-128/mongodb-4-1175139.png" title="MongoDB" width="100" alt="MongoDB">
     </td>
+    <td>
+      <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="100" /> 
+    </td>
+    <td>
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="100" /> 
+    </td> 
+    <td> 
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="100" /> 
+    </td>
     </tr>
     <tr>
     <td>
@@ -79,15 +88,6 @@ Here are some ideas to get you started: ✔
     <td>
     <img src="https://w7.pngwing.com/pngs/1006/374/png-transparent-web-development-node-js-socket-io-javascript-network-socket-modernization-miscellaneous-logo-web-application-thumbnail.png" title="Express" width="100" alt="Express">
     </td>
-    <td>
-      <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="100" /> 
-    </td>
-    <td>
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="100" /> 
-    </td> 
-    <td> 
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="100" /> 
-    </td> 
     <td>
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="100" /> 
      </td> 
