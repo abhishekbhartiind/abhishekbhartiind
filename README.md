@@ -30,8 +30,8 @@ Here are some ideas to get you started: ✔
 <p align="left"> <a href="https://twitter.com/iamabharti" target="blank"><img src="https://img.shields.io/twitter/follow/iamabharti?logo=twitter&style=for-the-badge" alt="iamabharti" /></a> </p>
 <br>
 <br>
-
 😄 Pronouns: ***He/His*** 😉
+<br>
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30" height="30">&nbsp;***Languages & Tools I Know...***
 <br>
 <table>
