@@ -24,12 +24,14 @@ Here are some ideas to get you started: ✔
 💬 Ask me about anything, I am happy to help<br>
 📫 How to reach me: imabhishekbharti12@gmail.com / <a href = "https://abhishekbharti.com" target="_blank">abhishekbharti.com</a>
 <br>
-😄 Pronouns: ***He/His*** 😉
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekbhartiind" alt="abhishekbhartiind" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/iamabharti" target="blank"><img src="https://img.shields.io/twitter/follow/iamabharti?logo=twitter&style=for-the-badge" alt="iamabharti" /></a> </p>
 <br>
+<br>
+
+😄 Pronouns: ***He/His*** 😉
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30" height="30">&nbsp;***Languages & Tools I Know...***
 <br>
 <table>
