@@ -10,9 +10,7 @@ Here are some ideas to get you started: ✔
 <a href="https://www.instagram.com/abhishekbharti/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="akash_chowrasia" height="30" width="40" /></a>
 <a href = "mailto: imabhishekbharti12@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekbhartiind" alt="abhishekbhartiind" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/iamabharti" target="blank"><img src="https://img.shields.io/twitter/follow/iamabharti?logo=twitter&style=for-the-badge" alt="iamabharti" /></a> </p>
 <br>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=abhishekbhartiind&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
@@ -27,6 +25,10 @@ Here are some ideas to get you started: ✔
 📫 How to reach me: imabhishekbharti12@gmail.com / <a href = "https://abhishekbharti.com" target="_blank">abhishekbharti.com</a>
 <br>
 😄 Pronouns: ***He/His*** 😉
+<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekbhartiind" alt="abhishekbhartiind" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/iamabharti" target="blank"><img src="https://img.shields.io/twitter/follow/iamabharti?logo=twitter&style=for-the-badge" alt="iamabharti" /></a> </p>
 <br>
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30" height="30">&nbsp;***Languages & Tools I Know...***
 <br>
