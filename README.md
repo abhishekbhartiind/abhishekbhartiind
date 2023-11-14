@@ -10,7 +10,9 @@ Here are some ideas to get you started: ✔
 <a href="https://www.instagram.com/abhishekbharti/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="akash_chowrasia" height="30" width="40" /></a>
 <a href = "mailto: imabhishekbharti12@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekbhartiind" alt="abhishekbhartiind" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/iamabharti" target="blank"><img src="https://img.shields.io/twitter/follow/iamabharti?logo=twitter&style=for-the-badge" alt="iamabharti" /></a> </p>
 <br>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=abhishekbhartiind&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
@@ -71,7 +73,11 @@ Here are some ideas to get you started: ✔
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="GitLab" width="100" alt="GitLab">
     </td>
     <td>
-    <img src="https://w7.pngwing.com/pngs/1006/374/png-transparent-web-development-node-js-socket-io-javascript-network-socket-modernization-miscellaneous-logo-web-application-thumbnail.png" title="Express" width="100" alt="Express"></td>
+    <img src="https://w7.pngwing.com/pngs/1006/374/png-transparent-web-development-node-js-socket-io-javascript-network-socket-modernization-miscellaneous-logo-web-application-thumbnail.png" title="Express" width="100" alt="Express">
+    </td>
+        <td>
+          <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="100" height="100"/> 
+        </td>
     </tr>
 </table>
 
